@@ -1,4 +1,4 @@
-[![csantisgallegos](https://static-exp1.licdn.com/sc/h/5bukxbhy9xsil5mb7c2wulfbx)](https://www.linkedin.com/in/csantisgallegos/)[![santis.dev](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)](https://www.instagram.com/santis.dev/)
+[![csantisgallegos](https://static-exp1.licdn.com/sc/h/5bukxbhy9xsil5mb7c2wulfbx)](https://www.linkedin.com/in/csantisgallegos/)
 
 ## _Carlos Santis G._ 
 ###### Ingeniero en ejecución e informática.
