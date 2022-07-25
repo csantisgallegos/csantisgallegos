@@ -15,7 +15,7 @@ Ingeniero en Ejecución e Informática. Poseo experiencia en minería y explotac
 ------------
 ### Experiencia
 - Ingeniero Desarrollador - Celmedia: abr. 2021 - actualidad
-- Analista de Sistemas - IPCHILE: ene. 2018 - jun. 2022
+- Analista de Sistemas - IPCHILE: ene. 2018 - abr. 2021
 - Programador Backend - Celmedia: oct. 2016 - nov. 2017
 - Analista Programador - Opensoft: feb. 2015 - oct. 2016
 - Analista de datos - Mapcity: jun. 2014 - oct. 2014
