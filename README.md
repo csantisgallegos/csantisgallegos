@@ -37,3 +37,7 @@ Ingeniero en Ejecución e Informática. Poseo experiencia en minería y explotac
 ### Librerías Utilizadas
 * [Guzzle](https://docs.guzzlephp.org/en/stable/)
 * [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/releases)
+
+---
+# Proyectos publicados
+* [Proyecto inicial basado en laravel 8 con AdminLte v3](https://github.com/csantisgallegos/laravel8_adminltev3)
