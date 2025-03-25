@@ -3,7 +3,7 @@
 <a href="https://github.com/csantisgallegos/csantisgallegos"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:30px; height:30px;"></a>
 
 # Carlos Francisco Santis Gallegos  
-### Jefe de Proyecto | Ingeniero Desarrollador  
+### Desarrollador de Software Sénior | Ingeniero Desarrollador  
 ---
 **Ingeniero desarrollador** con más de 10 años de experiencia en diseño, desarrollo e implementación de sistemas web. Experto en PHP, Laravel y bases de datos relacionales. Mi trayectoria abarca integración continua, gestión de proyectos y soluciones innovadoras para diversas industrias. Apasionado por el aprendizaje constante y la excelencia en el desarrollo de productos y servicios.
 
@@ -16,7 +16,7 @@
 ---
 ## Experiencia Profesional  
 **Celmedia**  
-- **Jefe de Proyecto** *(mar. 2024 - actualidad)*  
+- **Desarrollador de Software Sénior** *(mar. 2024 - actualidad)*  
   - Dirijo proyectos desde su concepción hasta su ejecución final, asegurando calidad en cada etapa y adaptándome a las necesidades del cliente.
 
 - **Ingeniero Desarrollador** *(abr. 2021 - may. 2024)*  
